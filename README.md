@@ -1,1 +1,1 @@
-Developed a real-time “invisibility cloak” effect using Python and OpenCV, inspired by the Harry Potter series. Implemented video capture, HSV color space masking, and bitwise operations to isolate and remove the cloak region in live video feed.
+A real-time “invisibility cloak” effect using Python and OpenCV, inspired by the Harry Potter series. Implemented using video capture, HSV color space masking, and bitwise operations to isolate and remove the cloak region in live video feed.
